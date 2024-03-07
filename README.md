@@ -15,9 +15,8 @@ What Is This?
 Getting M4M up and running
 ---------------------------
 * Download and install AutoHotkey v1.1
-* Download a full copy of this repository
-* Start by running the `.exe` file inside `M4M_Configurator.zip`
-* **Alternatively:** Start by defining macros under the 'Functions' section directly in the `.ahk` file
+* Download `M4M_Configurator.zip` and run the `.exe` file
+* **Alternatively:** Simply begin by defining macros under the 'Functions' section directly in the `.ahk` file
 * Test the script after finishing editing by running it!
 
 Keys for defining macros
