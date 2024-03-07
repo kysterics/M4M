@@ -1,7 +1,9 @@
 Macro for Mouse - M4M
 ===========================================
 ### The ***Mouse Macro** configurator/program for Windows*
-
+![image](https://github.com/kysterics/M4M/assets/63026996/d308b8e5-7095-419b-81c9-1332de587652)
+<br>
+<br>
 What Is This?
 -----------------------------
 * **M4M** is a portable macro configurator (built using CustomTkinter) that generates/tests `.ahk` scripts for mouse button combos
