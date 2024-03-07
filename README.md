@@ -4,7 +4,7 @@ Macro for Mouse - M4M
 
 What Is This?
 -----------------------------
-* **M4M** is a portable mouse macro configurator that generates an `.ahk` script
+* **M4M** is a portable macro configurator (built using CustomTkinter) that generates/tests `.ahk` scripts for mouse button combos
 * M4M can map macros to different mouse combos, for example, setting holding right click then left clicking once as the combo to perform <kbd>Alt</kbd>+<kbd>Tab</kbd>
 * There are in total 146 distinct combos possible to be defined with functions. Each of these combos has at most 3 and at least 2 ways of activation
 * The number of actions possible however is not limited to 146 with the use of conditions
