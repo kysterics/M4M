@@ -1,6 +1,6 @@
 Macro for Mouse - M4M
 ===========================================
-### The ***Mouse Macro** configurator/program for Windows*
+### A ***Mouse Macro** configurator/program for Windows*
 ![image](https://github.com/kysterics/M4M/assets/63026996/d308b8e5-7095-419b-81c9-1332de587652)
 <br>
 <br>
