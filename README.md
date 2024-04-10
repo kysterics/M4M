@@ -14,6 +14,7 @@ Note
 -----------------------------
 * Combos with the same keys but different order are distinct from each other
 * The original functions of your mouse buttons are retained by default
+* Currently, any button/wheel other than the standard ones (left/right click, mouse wheel click/up/down, back and forward) cannot be mapped
 * Basic knowledge of the AHK scripting langauge is required
 
 Getting M4M up and running
