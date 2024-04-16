@@ -6,7 +6,7 @@ M4M - Macro for Mouse
 <br>
 What Is This?
 -----------------------------
-* **M4M** is a portable [mouse chording](https://en.wikipedia.org/wiki/Mouse_chording) configurator (built using CustomTkinter) that generates/tests `.ahk` scripts for mouse button combos
+* M4M is a portable [mouse chording](https://en.wikipedia.org/wiki/Mouse_chording) configurator (built using CustomTkinter) that generates/tests `.ahk` scripts for mouse button combos
 * M4M can map macros to different mouse combos, for example, setting holding right click then left clicking once as the combo to perform <kbd>Alt</kbd>+<kbd>Tab</kbd>
 * 146 distinct combos—also known as functions—can be defined to perform actions. Each of these combos has at most 3 and at least 2 ways of activation
 
@@ -20,14 +20,13 @@ Note
 Getting M4M up and running
 ---------------------------
 * Download and install AutoHotkey v1.1
-* Download `M4M_Configurator.zip` under [Release](https://github.com/kysterics/M4M/releases/latest) and run the `.exe` file
+* Download `M4M_Configurator.zip` under [Releases](https://github.com/kysterics/M4M/releases/latest) and run the `.exe` file
 * **Alternatively:** Simply begin by defining macros under the 'Functions' section directly in the `.ahk` file
-* Test the script after finishing editing by running it!
+* Test your script after finishing editing by running it!
 
 Keys for defining macros
 ---------------------------
 * All available keys: `xBtn1`, `xBtn1¦2`, `xBtn2`, `lBtn`, `rBtn`, `mBtn`, `wUp`, `wDown`, where `xBtn1¦2` refers to XButton1 and XButton2 held down together, regardless of order
-
 * Available 'modifier' keys: `xBtn1`, `xBtn1¦2`, `xBtn2`, `lBtn`, `rBtn`
 
 About function names
