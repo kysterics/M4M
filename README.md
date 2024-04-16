@@ -1,4 +1,4 @@
-Macro for Mouse - M4M
+M4M - Macro for Mouse
 ===========================================
 ### A ***mouse chording** configurator/program for Windows*
 ![image](https://github.com/kysterics/M4M/assets/63026996/d308b8e5-7095-419b-81c9-1332de587652)
@@ -20,7 +20,7 @@ Note
 Getting M4M up and running
 ---------------------------
 * Download and install AutoHotkey v1.1
-* Download `M4M_Configurator.zip` and run the `.exe` file
+* Download `M4M_Configurator.zip` under [Release](https://github.com/kysterics/M4M/releases/latest) and run the `.exe` file
 * **Alternatively:** Simply begin by defining macros under the 'Functions' section directly in the `.ahk` file
 * Test the script after finishing editing by running it!
 
